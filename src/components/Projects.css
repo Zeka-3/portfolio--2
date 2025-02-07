@@ -1,0 +1,13 @@
+.projects {
+    background: #161627;
+    padding: 50px;
+    border-radius: 10px;
+    color: white;
+}
+
+.project {
+    background: #0A0A1E;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 10px;
+}

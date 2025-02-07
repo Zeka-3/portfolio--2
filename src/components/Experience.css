@@ -1,0 +1,25 @@
+.experience {
+    background: #161627;
+    padding: 50px;
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 80%;
+    text-align: center;
+    color: white;
+
+}
+
+.experience h2 {
+    color: #A97BFF;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.exp-item {
+    background: #0A0A1E;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}

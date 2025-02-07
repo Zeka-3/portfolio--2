@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background: #0A0A1E;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.navbar a {
+    color: #A97BFF;
+    font-weight: bold;
+
+}
+
+.navbar h1 {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
